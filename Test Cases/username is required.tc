@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>username is required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb8c92ec-6993-4505-9439-0635420c21c1</testCaseGuid>
+   <variable>
+      <defaultValue>'hello'</defaultValue>
+      <description></description>
+      <id>cf6bb972-3eda-47db-b365-4db0e06b5f07</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
