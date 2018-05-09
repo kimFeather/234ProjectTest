@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>incorrect id,pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54a72eb-6a72-42d0-b520-fcb6c49faa51</testCaseGuid>
+   <variable>
+      <defaultValue>'kimngai'</defaultValue>
+      <description></description>
+      <id>52eb966e-8d02-4a86-b9af-3b82a809662e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'raknajubjub'</defaultValue>
+      <description></description>
+      <id>c6834c1e-516c-4c2a-8a6f-30535546752c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
