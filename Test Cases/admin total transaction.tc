@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>admin total transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa95e3c9-607a-4a57-953d-ce2a41bb21cd</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>174fcbcb-948b-41ac-b266-8bbbde513db4</id>
+      <masked>false</masked>
+      <name>admin_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>561d83f8-daa3-44a0-8d0f-2568285519ee</id>
+      <masked>false</masked>
+      <name>admin_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>e138c50b-efe3-4a29-9af5-3d538ee3e195</id>
+      <masked>false</masked>
+      <name>user_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>79aa7794-5377-4f52-97b5-ae9a179311c1</id>
+      <masked>false</masked>
+      <name>user_password</name>
+   </variable>
+</TestCaseEntity>
