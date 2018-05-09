@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user clicks logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>937f16fd-8572-48e1-b8ca-ecd3841ef0a5</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>7292576d-531d-44a5-a0ba-15815ba22ed5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>37f8894d-472a-4677-8471-c657ada0a07c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
