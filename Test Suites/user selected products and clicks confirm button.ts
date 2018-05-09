@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>user selected products and clicks confirm button</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>8525506e-6ebb-411b-88d8-3fa16d9a8cae</testSuiteGuid>
+   <testCaseLink>
+      <guid>4a43b699-76cb-4e06-ab87-4ac8254d8f16</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/user selected products and clicks confirm button</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/user selected products and clicks confirm button</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>8ce274fd-5f04-41dd-a954-07fa5d8bd775</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>6f71df3e-159e-4b78-9264-bd8da19baa10</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>garde_amount</value>
+         <variableId>558ce751-fe46-480d-963d-5586a8a77cc6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>banana_amount</value>
+         <variableId>34967586-aab6-4833-90ef-5fb847af1f00</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>orange_amount</value>
+         <variableId>f8f46c79-63a1-43e3-a9c3-3fdb91bcc501</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>papaya_amount</value>
+         <variableId>1204a3b9-5ab2-4a96-bb2c-93dc7b683a2a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>31a7ebea-ae0b-4873-9bb2-e4e221ce5640</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>rambutan_amount</value>
+         <variableId>9f4b51c3-2c34-4af5-a566-086d41197af0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
