@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>admin open Total Transaction menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea16d27f-9192-495d-a44d-a3f63930b45c</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>728a231d-d6b3-41eb-a7ec-307b65607459</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>b9936929-2119-41dd-b8d7-55b10e237472</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
