@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user clicked at the add to cart button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>566f7f41-ae22-4796-88d1-c20a0d02a2a3</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>cb3f04ab-afa5-4849-bebd-637cd44bbfb0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>c68fd595-7f92-458e-a30c-36d05174fac4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
