@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user selected products and clicks confirm button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d6055c0-b3fa-4a65-8ab5-8bb4087764f5</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>8ce274fd-5f04-41dd-a954-07fa5d8bd775</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>6f71df3e-159e-4b78-9264-bd8da19baa10</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>558ce751-fe46-480d-963d-5586a8a77cc6</id>
+      <masked>false</masked>
+      <name>garde_amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>34967586-aab6-4833-90ef-5fb847af1f00</id>
+      <masked>false</masked>
+      <name>banana_amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>f8f46c79-63a1-43e3-a9c3-3fdb91bcc501</id>
+      <masked>false</masked>
+      <name>orange_amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>1204a3b9-5ab2-4a96-bb2c-93dc7b683a2a</id>
+      <masked>false</masked>
+      <name>papaya_amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>9f4b51c3-2c34-4af5-a566-086d41197af0</id>
+      <masked>false</masked>
+      <name>rambutan_amount</name>
+   </variable>
+</TestCaseEntity>
