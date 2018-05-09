@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user the available products are shown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f51507d-e288-4a87-b5cd-b9b362451b5f</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>65fdba2a-2221-4907-8075-ba9bdbab5e60</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>0a52dc78-520e-4fcb-a2d5-25701ed551c9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
